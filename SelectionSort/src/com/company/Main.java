@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         // Selection Sort
-        int[] nums = new int[]{9,8,10,6};
+        int[] nums = new int[]{9,8,7,6,5,4};
         SelectionSort(nums);
         for(int i=0; i<nums.length; i++){
             System.out.println(nums[i]);
