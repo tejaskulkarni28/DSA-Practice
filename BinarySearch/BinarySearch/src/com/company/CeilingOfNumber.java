@@ -37,4 +37,7 @@ public class CeilingOfNumber {
     }
 }
 // PlayGround
-// 1,3,5,7,9
+// 1,3,5,6,7
+// target = 3 then the output should be 5
+// target = 2 then the output should be 3
+// ..., etc.
